@@ -1,0 +1,19 @@
+import os
+
+
+rootdir = 'C:\\Users\\dogan\\Desktop\\f-droid_cloned_repos'
+
+for root in os.listdir(rootdir):
+    subdir = rootdir + "\\" + root
+    for filename in os.listdir(subdir):
+        if filename == "gradle.properties":
+            with open(subdir + '\\gradle.properties') as f:
+                if 'android.useAndroidX=true' and 'android.enableJetifier=true' in f.read():
+                    print('yay  ' + root)
+                else:
+                    print('fml  ' + root)
+
+
+        else:
+            continue
+

@@ -1,0 +1,927 @@
+ac.robinson.mediaphone,exist
+acr.browser.lightning,exist
+agersant.polaris,exist
+agrigolo.chubbyclick,dont exist
+android.jonas.fakestandby,dont exist
+android.nachiketa.ebookdownloader,dont exist
+app.crescentcash.src,dont exist
+app.fedilab.fedilabtube,exist
+app.fedilab.lite,dont exist
+app.fedilab.mobilizon,exist
+app.fedilab.nitterizeme,dont exist
+app.fedilab.nitterizemelite,dont exist
+app.fedilab.openmaps,dont exist
+app.fedilab.tubelab,exist
+app.fyreplace.client,exist
+app.olauncher,exist
+app.reading.stoic.stoicreading,dont exist
+apps.amine.bou.readerforselfoss,dont exist
+apps.jizzu.simpletodo,exist
+aq.metallists.loudbang,dont exist
+ar.rulosoft.mimanganu,dont exist
+at.h4x.metaapp,dont exist
+at.jclehner.rxdroid,exist
+at.tomtasche.reader,exist
+au.id.micolous.farebot,exist
+aws.apps.usbDeviceEnumerator,exist
+be.knars.netflixtoimdb,exist
+be.mygod.vpnhotspot,exist
+be.ppareit.swiftp_free,dont exist
+br.com.gualandi.dailypill,exist
+btools.routingapp,exist
+by.yauhenl.gardine,dont exist
+ca.andries.portknocker,dont exist
+ca.cmetcalfe.locationshare,exist
+ca.momi.lift,dont exist
+ca.rmen.android.networkmonitor,dont exist
+ca.rmen.android.poetassistant,exist
+cat.mvmike.minimalcalendarwidget,exist
+cc.echonet.coolmicapp,exist
+ch.bailu.aat,dont exist
+ch.blinkenlights.android.vanilla,exist
+ch.cryptobit.letterbox,dont exist
+ch.famoser.mensa,exist
+ch.logixisland.anuto,exist
+ch.protonvpn.android,exist
+ch.seto.kanjirecog,dont exist
+cityfreqs.com.pilfershushjammer,exist
+cl.coders.faketraveler,exist
+co.appreactor.news,exist
+co.epitre.aelf_lectures,exist
+co.garmax.materialflashlight,exist
+com.a5corp.weather,exist
+com.aaronhalbert.nosurfforreddit,exist
+com.aaronjwood.portauthority,dont exist
+com.abast.homebot,exist
+com.abhijitvalluri.android.fitnotifications,exist
+com.adguard.android.contentblocker,exist
+com.adonai.manman,exist
+com.aefyr.sai.fdroid,dont exist
+com.afollestad.nocknock,exist
+com.aidinhut.simpletextcrypt,dont exist
+com.akdev.nofbeventscraper,dont exist
+com.alienpants.leafpicrevived,exist
+com.amaze.filemanager,exist
+com.android.gpstest.osmdroid,dont exist
+com.android.keepass,exist
+com.android.todolist,dont exist
+com.antony.muzei.pixiv,exist
+com.app.missednotificationsreminder,exist
+com.apps.adrcotfas.goodtime,exist
+com.appspot.usbhidterminal,exist
+com.arduia.expense,exist
+com.asdoi.mebis,dont exist
+com.asdoi.quicktiles,dont exist
+com.asdoi.timetable,dont exist
+com.aurora.adroid,dont exist
+com.aurora.corona,dont exist
+com.aurora.store,dont exist
+com.averi.worldscribe,exist
+com.b44t.messenger,dont exist
+com.bald.uriah.baldphone,dont exist
+com.bernaferrari.changedetection,exist
+com.bernaferrari.sdkmonitor,dont exist
+com.better.alarm,exist
+com.biglybt.android.client,exist
+com.bijoysingh.quicknote,exist
+com.blogspot.developersu.ns_usbloader,dont exist
+com.blogspot.e_kanivets.moneytracker,exist
+com.bmco.cratesiounofficial,exist
+com.boardgamegeek,dont exist
+com.brentpanther.bitcoincashwidget,dont exist
+com.brentpanther.bitcoinwidget,exist
+com.brentpanther.ethereumwidget,dont exist
+com.brentpanther.litecoinwidget,dont exist
+com.brouken.player,exist
+com.byagowi.persiancalendar,exist
+com.bytestemplar.tonedef,exist
+com.cg.lrceditor,exist
+com.codebutler.farebot,exist
+com.codedead.deadhash,exist
+com.commit451.gitlab,exist
+com.concept1tech.instalate,dont exist
+com.cookiegames.smartcookie,exist
+com.corphish.nightlight.generic,exist
+com.corvettecole.gotosleep,dont exist
+com.craigd.lmsmaterial.app,dont exist
+com.crazylegend.vigilante,dont exist
+com.daemon.ssh,exist
+com.damiengo.websiterss,dont exist
+com.danhasting.radar,exist
+com.dar.nclientv2,dont exist
+com.decred.decredaddressscanner,dont exist
+com.dev.xavier.tempusromanum,dont exist
+com.deva.knot,dont exist
+com.developerfromjokela.motioneyeclient,exist
+com.diblui.fullcolemak,dont exist
+com.dkanada.gramophone,dont exist
+com.dkanada.icecons,dont exist
+com.donnnno.arcticons,dont exist
+com.dozingcatsoftware.vectorcamera,exist
+com.dp.logcatapp,exist
+com.drodin.tuxrider,exist
+com.ds.avare,exist
+com.easyfitness,exist
+com.ebaschiera.triplecamel,dont exist
+com.emacberry.uuid0xfd6fscan,dont exist
+com.emanuelef.remote_capture,exist
+com.ensoft.imgurviewer,exist
+com.etesync.syncadapter,exist
+com.eventyay.attendee,exist
+com.eventyay.organizer,exist
+com.evilinsult,exist
+com.example.barcodescanner,dont exist
+com.example.booklistingapk,dont exist
+com.example.forgottenumbrella.cardboardmuseum,dont exist
+com.example.trigger,dont exist
+com.fabienli.dokuwiki,exist
+com.faltenreich.diaguard,exist
+com.farmerbb.notepad,exist
+com.farmerbb.secondscreen.free,exist
+com.farmerbb.taskbar,exist
+com.fediphoto,exist
+com.finnmglas.launcher,exist
+com.flxrs.dankchat,exist
+com.flx_apps.digitaldetox,dont exist
+com.gabm.fancyplaces,dont exist
+com.garyodernichts.downgrader,dont exist
+com.gatheringhallstudios.mhworlddatabase,exist
+com.gbeatty.arxiv,exist
+com.gelakinetic.mtgfam,exist
+com.genonbeta.TrebleShot,exist
+com.geoquizfoss,dont exist
+com.gh4a,exist
+com.ghstudios.android.mhgendatabase,exist
+com.gianlu.aria2android,exist
+com.gianlu.aria2app,exist
+com.gianlu.dnshero,exist
+com.gianlu.pretendyourexyzzy,exist
+com.gimranov.zandy.app,exist
+com.github.ashutoshgngwr.noice,exist
+com.github.characterdog.bmicalculator,dont exist
+com.github.characterdog.share_my_number,dont exist
+com.github.cvzi.darkmodewallpaper,exist
+com.github.cythara,exist
+com.github.dawidd6.andttt,exist
+com.github.doomsdayrs.apps.shosetsu,dont exist
+com.github.fi3te.notificationcron,dont exist
+com.github.gotify,exist
+com.github.gschwind.fiddle_assistant,dont exist
+com.github.mobile,dont exist
+com.github.moko256.twitlatte,dont exist
+com.github.muellerma.coffee,dont exist
+com.github.muellerma.tabletoptools,dont exist
+com.github.mueller_ma.viewandroidversion,dont exist
+com.github.niqdev.ipcam,exist
+com.github.palmcalc2019.palmcalc,dont exist
+com.github.premnirmal.tickerwidget,exist
+com.github.ruleant.getback_gps,dont exist
+com.github.shadowsocks.plugin.v2ray,exist
+com.github.siggel.coordinatejoker,exist
+com.gitlab.giwiniswut.rwremount,dont exist
+com.gitlab.mahc9kez.shadowsocks.foss,dont exist
+com.gmail.anubhavdas54.whatsdeleted,dont exist
+com.google.android.gms,exist
+com.google.android.location,dont exist
+com.google.android.stardroid,exist
+com.greenaddress.abcore,exist
+com.greenaddress.greenbits_android_wallet,exist
+com.grmasa.soundtoggle,dont exist
+com.gsnathan.pdfviewer,exist
+com.guillaumepayet.remotenumpad,exist
+com.hardcodecoder.pulsemusic,dont exist
+com.health.openworkout,exist
+com.hearham.repeaterstart,dont exist
+com.iatfei.streakalarm,dont exist
+com.ichi2.anki,exist
+com.indieweb.indigenous,exist
+com.infonuascape.osrshelper,exist
+com.iskrembilen.quasseldroid,exist
+com.james.status,exist
+com.jarsilio.android.autoautorotate,exist
+com.jeffliu.balancetheball,exist
+com.jellyshack.block6,dont exist
+com.jens.automation2,exist
+com.jim.sharetocomputer,exist
+com.jkcarino.ankieditor,exist
+com.jkuester.unlauncher,dont exist
+com.jmstudios.redmoon,dont exist
+com.joshuacerdenia.android.nicefeed,exist
+com.jpwolfso.privdnsqt,dont exist
+com.jstappdev.dbclf,exist
+com.jstephan.yarc,exist
+com.jtmcn.archwiki.viewer,exist
+com.kabouzeid.gramophone,exist
+com.kanedias.archforums,exist
+com.kanedias.holywarsoo,exist
+com.kgurgul.cpuinfo,exist
+com.knirirr.beecount,exist
+com.ktprograms.ohmsnow,dont exist
+com.ktprograms.watertracker,dont exist
+com.kunzisoft.keepass.libre,dont exist
+com.kunzisoft.keyboard.switcher,exist
+com.kylecorry.trail_sense,exist
+com.lako.walletcount,dont exist
+com.leinardi.ubuntucountdownwidget,exist
+com.limbo.emu.main,dont exist
+com.lindevhard.android.raspfinder,dont exist
+com.lithium.leona.openstud,exist
+com.log28,exist
+com.lolo.io.onelist,exist
+com.luk.saucenao,dont exist
+com.m3sv.plainupnp,exist
+com.machiav3lli.backup,dont exist
+com.machiav3lli.derdiedas,dont exist
+com.manimarank.spell4wiki,exist
+com.manimarank.websitemonitor,exist
+com.marcdonald.hibi,dont exist
+com.marceljurtz.lifecounter,exist
+com.marcospoerl.simplypace,exist
+com.mareksebera.simpledilbert,dont exist
+com.marv42.ebt.newnote,dont exist
+com.maskyn.fileeditorpro,exist
+com.mattgmg.miracastwidget,exist
+com.maxfour.music,dont exist
+com.maxistar.textpad,exist
+com.mbestavros.geometricweather,dont exist
+com.mcsnowflake.worktimer,dont exist
+com.mendhak.gpslogger,dont exist
+com.menny.android.anysoftkeyboard,exist
+com.mikifus.padland,exist
+com.mileskrell.texttorch,dont exist
+com.minar.birday,exist
+com.minar.randomix,exist
+com.mirfatif.permissionmanagerx,exist
+com.mkulesh.micromath.plus,exist
+com.mkulesh.onpc,exist
+com.ml.proximitysensorfix,exist
+com.moez.QKSMS,exist
+com.money.manager.ex,dont exist
+com.movim.movim,dont exist
+com.mustafaali.sensorssandbox,exist
+com.mzhang.cleantimer,exist
+com.nathaniel.motus.cavevin,dont exist
+com.nazmar.dicegainz,exist
+com.nephi.getoffyourphone,exist
+com.nextcloud.android.beta,dont exist
+com.nextcloud.client,exist
+com.nextcloud.talk2,exist
+com.nicobrailo.pianoli,dont exist
+com.nikola.jakshic.dagger,exist
+com.nishantboro.splititeasy,dont exist
+com.noahjutz.splitfit.fdroid,dont exist
+com.nononsenseapps.feeder,dont exist
+com.nononsenseapps.wanidoku,exist
+com.noprestige.kanaquiz,exist
+com.numguesser.tonio_rpchp.numberguesser,dont exist
+com.oasisfeng.island.fdroid,dont exist
+com.odnovolov.forgetmenot,exist
+com.oF2pks.chairlock,dont exist
+com.oF2pks.jquarks,dont exist
+com.oF2pks.kalturadeviceinfos,dont exist
+com.omgodse.notally,exist
+com.oml.recordtimedroid,exist
+com.oriondev.moneywallet,exist
+com.orpheusdroid.screenrecorder,exist
+com.osfans.trime,exist
+com.otago.open,dont exist
+com.owncloud.android,exist
+com.parishod.watomatic,exist
+com.pcinpact,exist
+com.perflyst.twire,exist
+com.perol.asdpl.play.pixivez.libre,dont exist
+com.phikal.regex,dont exist
+com.philolog.hoplitekeyboard,exist
+com.physphil.android.unitconverterultimate,exist
+com.picross.nonocross,dont exist
+com.pierreduchemin.smsforward,dont exist
+com.pitchedapps.frost,dont exist
+com.pluscubed.matloglibre,dont exist
+com.plusonelabs.calendar,dont exist
+com.poupa.attestationdeplacement,dont exist
+com.poupa.vinylmusicplayer,exist
+com.powerje.nyan,exist
+com.practicalapps.hamtrainer,dont exist
+com.punksta.apps.volumecontrol,exist
+com.quchen.flashcard,exist
+com.rascarlo.adaptive.brightness.tile,dont exist
+com.rascarlo.arch.packages,exist
+com.rascarlo.aurdroid,exist
+com.rascarlo.power.button.tile,dont exist
+com.readrops.app,exist
+com.rechnen.app,dont exist
+com.redcoracle.episodes,dont exist
+com.rehanced.lunary,dont exist
+com.releasestandard.scriptmanager,dont exist
+com.renard.ocr,exist
+com.rohit2810.spotit,dont exist
+com.rohitsuratekar.NCBSinfo,exist
+com.rtbishop.look4sat,exist
+com.ruesga.rview,exist
+com.saha.batchuninstaller,exist
+com.sahdeepsingh.Bop,dont exist
+com.saiga.find.messagefinder,dont exist
+com.sam.hex,exist
+com.samco.trackandgraph,exist
+com.sapuseven.untis,exist
+com.sduduzog.slimlauncher,exist
+com.securefilemanager.app,dont exist
+com.secuso.privacyFriendlyCodeScanner,exist
+com.sentienhq.launcher,exist
+com.servoz.appsdisabler,dont exist
+com.serwylo.babydots,exist
+com.serwylo.lexica,exist
+com.simplemobiletools.applauncher,exist
+com.simplemobiletools.calculator,exist
+com.simplemobiletools.calendar.pro,exist
+com.simplemobiletools.camera,exist
+com.simplemobiletools.clock,exist
+com.simplemobiletools.contacts.pro,exist
+com.simplemobiletools.dialer,exist
+com.simplemobiletools.draw.pro,exist
+com.simplemobiletools.filemanager.pro,exist
+com.simplemobiletools.flashlight,exist
+com.simplemobiletools.gallery.pro,exist
+com.simplemobiletools.musicplayer,exist
+com.simplemobiletools.notes.pro,exist
+com.simplemobiletools.smsmessenger,exist
+com.simplemobiletools.thankyou,exist
+com.simplemobiletools.voicerecorder,exist
+com.slash.batterychargelimit,exist
+com.smartpack.kernelmanager,dont exist
+com.smartpack.kernelprofiler,exist
+com.smartpack.packagemanager,exist
+com.smartpack.scriptmanager,exist
+com.smartpack.smartflasher,dont exist
+com.smilla.greentooth,exist
+com.starapps.tools.tnefextractor,dont exist
+com.stypox.mastercom_workbook,dont exist
+com.sunilpaulmathew.debloater,exist
+com.sunilpaulmathew.translator,exist
+com.superproductivity.superproductivity,exist
+com.swordfish.lemuroid,exist
+com.szchoiceway.aios.bridge,dont exist
+com.tachibana.downloader,dont exist
+com.tananaev.calculator,exist
+com.tananaev.logcat,exist
+com.tasomaniac.openwith.floss,dont exist
+com.tengu.sharetoclipboard,exist
+com.termoneplus,exist
+com.termux.api,exist
+com.termux.tasker,exist
+com.tistory.deque.previewmaker,exist
+com.tiwa.pl,exist
+com.tjk104.openfndds,dont exist
+com.tmendes.birthdaydroid,exist
+com.todobom.opennotescanner,exist
+com.tomer.screenshotsharer,dont exist
+com.tortel.syslog,exist
+com.transway.caresteouvert,exist
+com.tunerly,exist
+com.tunjid.fingergestures,exist
+com.tutpro.baresip,exist
+com.tutpro.baresip.plus,exist
+com.twidere.twiderex,exist
+com.ubergeek42.WeechatAndroid,dont exist
+com.ultramegatech.ey,exist
+com.unciv.app,exist
+com.urbandroid.dontkillmyapp,exist
+com.utazukin.ichaival,dont exist
+com.vaudibert.canidrive,exist
+com.vecturagames.android.app.passwordgenerator,exist
+com.vecturagames.android.app.passwordmaster,exist
+com.vedroid.events,dont exist
+com.vincent_falzon.discreetlauncher,exist
+com.vlath.keyboard,exist
+com.vrem.wifianalyzer,exist
+com.wangdaye.mysplash,exist
+com.wesaphzt.privatelocation,dont exist
+com.wesaphzt.privatelock,dont exist
+com.wireguard.android,exist
+com.wmstein.tourcount,dont exist
+com.wmstein.transektcount,dont exist
+com.workingagenda.democracydroid,exist
+com.x1unix.s60icons,exist
+com.xabber.android,exist
+com.xabber.android.classic,dont exist
+com.xvzan.simplemoneytracker,exist
+com.yacgroup.yacguide,exist
+com.yacgroup.yacguide.dev,exist
+com.yogeshpaliyal.keypass,exist
+com.yubico.yubioath,exist
+com.zegoggles.smssync,exist
+com.zell_mbc.medilog,dont exist
+com.zoffcc.applications.metalab_open_widget,dont exist
+com.zorinos.zorin_connect,exist
+com.zzzmode.appopsx,dont exist
+covidsecure.uk.venuecheckin,dont exist
+cz.martykan.forecastie,dont exist
+cz.martykan.webtube,dont exist
+danielmeek32.compass,dont exist
+de.arnowelzel.android.periodical,exist
+de.bahnhoefe.deutschlands.bahnhofsfotos,exist
+de.baswil.gctools,dont exist
+de.baumann.browser,dont exist
+de.baumann.hhsmoodle,exist
+de.baumann.quitsmoking,dont exist
+de.baumann.weather,dont exist
+de.beatbrot.screenshotassistant,dont exist
+de.blau.android,exist
+de.blinkt.openvpn,exist
+de.bulling.barcodebuddyscanner,exist
+de.ccc.events.badge.card10,dont exist
+de.christinecoenen.code.zapp,dont exist
+de.clemensbartz.android.launcher,dont exist
+de.csicar.ning,dont exist
+de.cwde.freeshisen,exist
+de.danoeh.antennapod,exist
+de.dennisguse.opentracks,dont exist
+de.devmil.muzei.bingimageofthedayartsource,exist
+de.eknoes.inofficialgolem,exist
+de.fff.ccgt,dont exist
+de.freehamburger,dont exist
+de.freifunk_karte.freifunk_karte,exist
+de.gabbo.forro_lyrics,dont exist
+de.grobox.blitzmail,dont exist
+de.grobox.liberario,exist
+de.hauke_stieler.geonotes,dont exist
+de.hskl.contacts,dont exist
+de.igloffstein.maik.aRevelation,exist
+de.jkliemann.parkendd,exist
+de.jl.notificationlog,exist
+de.jonasbernard.tudarmstadtmoodlewrapper,dont exist
+de.k3b.android.intentintercept,dont exist
+de.k3b.android.locationMapViewer,dont exist
+de.k3b.android.lossless_jpg_crop,dont exist
+de.k3b.android.toGoZip,dont exist
+de.kaffeemitkoffein.tinyweatherforecastgermany,dont exist
+de.koelle.christian.trickytripper,exist
+de.kromke.andreas.mediascanner,exist
+de.kromke.andreas.musictagger,exist
+de.kromke.andreas.opus1musicplayer,exist
+de.kromke.andreas.safmediascanner,exist
+de.kromke.andreas.unpopmusicplayerfree,exist
+de.luhmer.owncloudnewsreader,exist
+de.marmaro.krt.ffupdater,dont exist
+de.metager.metagerapp.fdroid,dont exist
+de.micmun.android.nextcloudcookbook,exist
+de.moooon.acrylicons,dont exist
+de.msal.muzei.nationalgeographic,exist
+de.mw136.tonuino,exist
+de.mwvb.blockpuzzle,exist
+de.nulide.bikecomputer,dont exist
+de.nulide.findmydevice,dont exist
+de.nulide.shiftcal,dont exist
+de.perflyst.batterycalibration,dont exist
+de.pixart.messenger,dont exist
+de.rwth_aachen.phyphox,exist
+de.salomax.currencies,exist
+de.schlikk.calls,exist
+de.spiritcroc.riotx,exist
+de.stefan_oltmann.kaesekaestchen,exist
+de.stephanlindauer.criticalmaps,exist
+de.storchp.fdroidbuildstatus,dont exist
+de.storchp.opentracks.osmplugin,exist
+de.storchp.opentracks.osmplugin.offline,dont exist
+de.szalkowski.activitylauncher,exist
+de.tap.easy_xkcd,exist
+de.taz.android.app.free,dont exist
+de.tcrass.minos,dont exist
+de.thecode.android.tazreader,exist
+de.thecode.lmd,exist
+de.toshsoft.tsvnc,exist
+de.tu_chemnitz.wlan,exist
+de.t_dankworth.secscanqr,dont exist
+de.uni_potsdam.hpi.openmensa,exist
+de.vier_bier.habpanelviewer,exist
+de.westnordost.luftlinie,exist
+de.westnordost.streetcomplete,exist
+dev.corruptedark.openchaoschess,exist
+dev.jmoore.lametricnotify,dont exist
+dev.jtsalva.cloudmare,exist
+dev.leonlatsch.photok,exist
+dev.lucanlm.antimine,dont exist
+dev.patrickgold.florisboard,dont exist
+dk.meznik.jan.encrypttext,dont exist
+edu.stanford.rkpandey.covid19tracker,dont exist
+ee.ioc.phon.android.speak,exist
+email.schaal.ocreader,dont exist
+es.eoinrul.ecwt,exist
+es.ideotec.t16fling,dont exist
+espero.jiofibatterynotifier,dont exist
+eth.matteljay.mastermindy,dont exist
+eu.bubu1.fdroidclassic,dont exist
+eu.depau.etchdroid,exist
+eu.dorfbrunnen.momkin,dont exist
+eu.droogers.smsmatrix,dont exist
+eu.faircode.email,exist
+eu.faircode.netguard,exist
+eu.faircode.xlua,dont exist
+eu.hydrologis.geopaparazzi,exist
+eu.lepiller.nani,dont exist
+eu.quelltext.coloring,dont exist
+eu.quelltext.memory,dont exist
+eu.roggstar.luigithehunter.dsaassistent,exist
+eu.siacs.conversations,exist
+eu.sum7.conversations,dont exist
+eu.veldsoft.ithaka.board.game,dont exist
+felixwiemuth.simplereminder,dont exist
+fi.bitrite.android.ws,exist
+fi.testbed2,exist
+foehnix.widget,dont exist
+foss.cnugteren.nlweer,dont exist
+foundation.e.blisslauncher,dont exist
+fr.chenry.android.freshrss,dont exist
+fr.corenting.convertisseureurofranc,exist
+fr.corenting.traficparis,exist
+fr.covidat.android,dont exist
+fr.cph.chicago.foss,dont exist
+fr.free.nrw.commons,exist
+fr.gaulupeau.apps.InThePoche,exist
+fr.gouv.android.stopcovid,exist
+fr.gouv.etalab.mastodon,dont exist
+fr.guillaumevillena.opendnsupdater,exist
+fr.jnda.android.flashalert,dont exist
+fr.jnda.android.ipcalc,exist
+fr.neamar.kiss,exist
+fr.nuage.souvenirs,dont exist
+fr.ralala.hexviewer,dont exist
+fr.rhaz.ipfs.sweet,exist
+fr.twentynine.keepon,exist
+fr.xgouchet.packageexplorer,dont exist
+free.rm.skytube.oss,dont exist
+freemap.opentrail,exist
+godau.fynn.bandcampdirect,dont exist
+godau.fynn.dsbdirect,exist
+godau.fynn.usagedirect,dont exist
+godau.fynn.usagedirect.system,dont exist
+grmpl.mk.stepandheightcounter,dont exist
+hashengineering.darkcoin.wallet,exist
+host.stjin.anonaddy,exist
+hr.kravarscan.enchantedfortress,dont exist
+hu.tagsoft.ttorrent.search,dont exist
+hu.vmiklos.plees_tracker,dont exist
+idv.markkuo.ambitsync,exist
+im.quicksy.client,exist
+im.vector.app,exist
+in.ac.dducollegedu.shell,dont exist
+in.blogspot.anselmbros.torchie,exist
+inc.flide.vi8,exist
+info.zamojski.soft.towercollector,exist
+io.github.benoitduffez.cupsprint,exist
+io.github.chiver,dont exist
+io.github.datastopwatch,dont exist
+io.github.deweyreed.clipboardcleaner,exist
+io.github.domi04151309.alwayson,exist
+io.github.domi04151309.batterytool,dont exist
+io.github.domi04151309.home,exist
+io.github.domi04151309.podscompanion,exist
+io.github.domi04151309.powerapp,exist
+io.github.easyintent.quickref,exist
+io.github.folderlogs,dont exist
+io.github.fvasco.pinpoi,exist
+io.github.hasheazy,dont exist
+io.github.hidroh.materialistic,exist
+io.github.installalogs,dont exist
+io.github.ismywebsiteup,dont exist
+io.github.muntashirakon.Music,dont exist
+io.github.muntashirakon.setedit,dont exist
+io.github.muntashirakon.unapkm,dont exist
+io.github.otobikb.inputmethod.latin,dont exist
+io.github.randomfilemaker,dont exist
+io.github.saveastxt,dont exist
+io.github.sds100.keymapper,exist
+io.github.sds100.keymapper.inputmethod.latin,exist
+io.github.silinote,dont exist
+io.github.subhamtyagi.nightmode,dont exist
+io.github.subhamtyagi.ocr,dont exist
+io.github.subhamtyagi.openinwhatsapp,dont exist
+io.github.trytonvanmeer.libretrivia,dont exist
+io.github.wulkanowy,exist
+io.github.z3r0c00l_2k.aquadroid,dont exist
+io.gitlab.danielrparks.vibrato,exist
+io.kuenzler.whatsappwebtogo,dont exist
+io.lbry.browser,exist
+io.mrarm.irc,exist
+io.nandandesai.privacybreacher,exist
+io.rebble.charon,exist
+io.timelimit.android.aosp.direct,dont exist
+io.timelimit.android.open,dont exist
+io.treehouses.remote,exist
+io.vertretungsplan.client.android,exist
+io.wookey.wallet,dont exist
+ir.mrahimy.conceal,dont exist
+is.xyz.mpv,exist
+is.xyz.omw,exist
+is.xyz.omw_nightly,exist
+it.collideorscopeapps.codename_hippopotamos,dont exist
+it.fabmazz.triestebus,dont exist
+it.feio.android.omninotes.foss,dont exist
+it.niedermann.nextcloud.deck,dont exist
+it.niedermann.owncloud.notes,exist
+jl.musicalnotes,exist
+joshuatee.wx,exist
+jp.ddo.hotmist.unicodepad,exist
+jp.muo.syncmemories,exist
+kiwi.root.an2linuxclient,dont exist
+la.daube.photochiotte,dont exist
+li.klass.fhem,exist
+ltd.evilcorp.atox,exist
+mattecarra.accapp,dont exist
+me.anon.grow,dont exist
+me.austinhuang.instagrabber,dont exist
+me.blog.korn123.easydiary,exist
+me.ccrama.redditslide,exist
+me.echeung.moemoekyun.fdroid,dont exist
+me.hackerchick.catima,exist
+me.hackerchick.raisetoanswer,exist
+me.hackerchick.sharetoinputstick,exist
+me.impa.knockonports,exist
+me.jfenn.alarmio,exist
+me.kuehle.carreport,dont exist
+me.murks.feedwatcher,dont exist
+me.murks.filmchecker,dont exist
+me.ranko.autodark,dont exist
+me.rosuh.easywatermark,exist
+me.thanel.dank,exist
+me.tsukanov.counter,exist
+me.wenxinwang.pulsedroidrtp,dont exist
+me.yardenac.comaphone,exist
+me.zeeroooo.materialfb,dont exist
+me.zhanghai.android.files,exist
+menion.android.whereyougo,exist
+mf.asciitext.lite,exist
+ml.adamsprogs.bimba,dont exist
+ml.docilealligator.infinityforreddit,exist
+mn.tck.semitone,exist
+mobi.maptrek,exist
+moe.dic1911.urlsanitizer,dont exist
+moe.martini.midictrl,dont exist
+moe.minori.pgpclipper,dont exist
+mono.hg,exist
+name.gdr.acastus_photon,dont exist
+nekox.messenger,dont exist
+net.bible.android.activity,exist
+net.codechunk.speedofsound,dont exist
+net.currit.tonality,exist
+net.cyclestreets,exist
+net.daverix.urlforward,exist
+net.dcnnt,dont exist
+net.ebt.muzei.miyazaki,dont exist
+net.eneiluj.moneybuster,exist
+net.eneiluj.nextcloud.phonetrack,dont exist
+net.frju.flym,exist
+net.gaast.giggity,exist
+net.guildem.publicip,exist
+net.ivpn.client,exist
+net.justdave.nwsweatheralertswidget,exist
+net.kollnig.missioncontrol.fdroid,dont exist
+net.kourlas.voipms_sms,exist
+net.moasdawiki.app,dont exist
+net.nhiroki.bluelineconsole,exist
+net.nitratine.priceperunit,exist
+net.nullsum.audinaut,exist
+net.opendasharchive.openarchive.release,exist
+net.osmand.parkingPlugin,exist
+net.osmand.plus,exist
+net.osmand.srtmPlugin.paid,exist
+net.osmtracker,exist
+net.pfiers.osmfocus,exist
+net.programmierecke.radiodroid2,exist
+net.redwarp.gifwallpaper,exist
+net.reichholf.dreamdroid,exist
+net.schueller.instarepost,exist
+net.schueller.peertube,exist
+net.scintill.duotp,dont exist
+net.tjado.passwdsafe,exist
+net.typeblog.shelter,exist
+net.vonforst.evmap,exist
+net.wigle.wigleandroid,exist
+net.xisberto.timerpx,dont exist
+net.xvello.salasana,dont exist
+nightlock.peppercarrot,exist
+nl.mpcjanssen.simpletask,dont exist
+nl.mpcjanssen.simpletask.webdav,dont exist
+nodomain.freeyourgadget.gadgetbridge,dont exist
+nodomain.freeyourgadget.tpmsmonitor,dont exist
+om.sstvencoder,exist
+one.librem.chat,exist
+openfoodfacts.github.scrachx.openbeauty,dont exist
+openfoodfacts.github.scrachx.openfood,exist
+oppen.gemini.ariane,exist
+org.adaway,dont exist
+org.amoradi.syncopoli,dont exist
+org.andresoviedo.dddmodel2,exist
+org.andstatus.app,exist
+org.andstatus.todoagenda,exist
+org.asnelt.derandom,exist
+org.asteroidos.sync,dont exist
+org.atalk.android,exist
+org.bandev.buddhaquotes,exist
+org.basketbuilddownloader,dont exist
+org.blitzortung.android.app,exist
+org.bombusmod,exist
+org.briarproject.briar.android,exist
+org.calyxinstitute.vpn,dont exist
+org.catrobat.paintroid,exist
+org.chickenhook.binderfuzzy,dont exist
+org.chickenhook.startflagexploit,dont exist
+org.commonvoice.saverio,exist
+org.connectbot,exist
+org.cry.otp,exist
+org.cuberite.android,dont exist
+org.ddosolitary.okcagent,exist
+org.decsync.cc,exist
+org.decsync.sparss.floss,dont exist
+org.dmfs.tasks,exist
+org.docspell.docspellshare,dont exist
+org.dslul.openboard.inputmethod.latin,exist
+org.dynamicsoft.caloriescope,dont exist
+org.dystopia.email,dont exist
+org.emunix.insteadlauncher,exist
+org.emunix.unipatcher,exist
+org.epstudios.morbidmeter,exist
+org.eu.exodus_privacy.exodusprivacy,exist
+org.eukalyptus.balance,dont exist
+org.eukalyptus.liquidrechner,dont exist
+org.fdroid.fdroid,dont exist
+org.fitchfamily.android.gsmlocation,dont exist
+org.fitchfamily.android.symphony,dont exist
+org.flyve.inventory.agent,dont exist
+org.fossasia.badgemagic,exist
+org.fox.tttrss,dont exist
+org.freedombox.freedombox,exist
+org.freenetproject.mobile,dont exist
+org.galexander.sshd,exist
+org.gateshipone.malp,exist
+org.gateshipone.odyssey,exist
+org.getdisconnected.libreipsum,dont exist
+org.ghostsinthelab.apps.guilelessbopomofo,exist
+org.gittner.osmbugs,exist
+org.happypeng.sumatora.android.sumatoradictionary,exist
+org.hlwd.bible,exist
+org.hwyl.sexytopo,exist
+org.isoron.uhabits,exist
+org.jak_linux.dns66,dont exist
+org.jdfossapps.android.shopwithmom,dont exist
+org.jellyfin.mobile,exist
+org.kaqui,exist
+org.kde.bettercounter,exist
+org.kde.kdeconnect_tp,exist
+org.kiwix.kiwixmobile,exist
+org.kknickkk.spider,dont exist
+org.kontalk,exist
+org.kore.kolabnotes.android,exist
+org.kristbaum.como,exist
+org.liberty.android.fantastischmemo,exist
+org.liberty.android.freeotpplus,exist
+org.ligi.gobandroid_hd,exist
+org.ligi.materialteatimer,dont exist
+org.ligi.passandroid,exist
+org.ligi.survivalmanual,exist
+org.linphone,exist
+org.mariotaku.twidere,exist
+org.mattvchandler.a2050,exist
+org.mattvchandler.progressbars,exist
+org.mcxa.softsound,exist
+org.mcxa.vortaro,exist
+org.metabrainz.android,exist
+org.microg.nlp,dont exist
+org.midorinext.android,dont exist
+org.moire.opensudoku,exist
+org.moire.ultrasonic,exist
+org.mosad.seil0.projectlaogai,exist
+org.mosad.teapod,dont exist
+org.mozilla.fennec_fdroid,dont exist
+org.mupen64plusae.v3.alpha,dont exist
+org.nitri.opentopo,dont exist
+org.nonononoki.hendroid,dont exist
+org.nuntius35.wrongpinshutdown,dont exist
+org.nutritionfacts.dailydozen,exist
+org.opengappsdownloader,dont exist
+org.openhab.habdroid,exist
+org.openhab.habdroid.beta,exist
+org.openintents.filemanager,exist
+org.openintents.notepad,exist
+org.openobservatory.ooniprobe,exist
+org.openpetfoodfacts.scanner,exist
+org.ostrya.presencepublisher,exist
+org.pacien.tincapp,exist
+org.petero.droidfish,exist
+org.piwigo.android,exist
+org.poul.bits.android,dont exist
+org.ppsspp.ppsspp,exist
+org.proninyaroslav.libretorrent,exist
+org.pyload.android.client,dont exist
+org.quantumbadger.redreader,exist
+org.runnerup.free,dont exist
+org.safecoin.safeprice,exist
+org.savapage.android.print,dont exist
+org.schabi.jedentageinset,exist
+org.schabi.newpipe,dont exist
+org.schabi.newpipelegacy,dont exist
+org.schabi.nxbookmarks,dont exist
+org.scoutant.blokish,dont exist
+org.scoutant.rpn,dont exist
+org.secuso.privacyfriendlyactivitytracker,exist
+org.secuso.privacyfriendlydicer,exist
+org.secuso.privacyfriendlyintervaltimer,exist
+org.secuso.privacyfriendlynetmonitor,dont exist
+org.secuso.privacyfriendlynotes,exist
+org.secuso.privacyfriendlypasswordgenerator,exist
+org.secuso.privacyfriendlysudoku,exist
+org.secuso.privacyfriendlytodolist,exist
+org.secuso.privacyfriendlyweather,exist
+org.shadowice.flocke.andotp,exist
+org.shirakumo.ocelot,dont exist
+org.snikket.android,exist
+org.softeg.slartus.forpdaplus,dont exist
+org.sorz.lab.tinykeepass,dont exist
+org.sufficientlysecure.keychain,exist
+org.sufficientlysecure.termbot,exist
+org.sw24softwares.starkeverben,exist
+org.telegram.messenger,exist
+org.tengel.planisphere,exist
+org.thiolliere.youtubestream,dont exist
+org.thosp.yourlocalweather,exist
+org.tigase.messenger.phone.pro,exist
+org.totschnig.myexpenses,exist
+org.totschnig.ocr.tesseract,dont exist
+org.transdroid.full,dont exist
+org.transdroid.lite,exist
+org.transdroid.search,dont exist
+org.ttrssreader,exist
+org.twistedappdeveloper.statocovid19italia,dont exist
+org.unifiedpush.distributor.noprovider2push,dont exist
+org.voidsink.anewjkuapp,exist
+org.weilbach.splitbills,dont exist
+org.wentura.getflow,dont exist
+org.wikipedia,exist
+org.windvolt,dont exist
+org.woheller69.weather,dont exist
+org.xbmc.kore,exist
+org.xphnx.ameixa,dont exist
+org.xphnx.ameixamonochrome,dont exist
+org.xphnx.iconsubmit,dont exist
+org.y20k.escapepod,exist
+org.y20k.trackbook,exist
+org.y20k.transistor,exist
+org.yausername.dvd,dont exist
+org.yuttadhammo.BodhiTimer,exist
+org.zephyrsoft.trackworktime,exist
+pan.alexander.tordnscrypt.stable,dont exist
+pc.javier.seguime,exist
+posidon.launcher,dont exist
+protect.babysleepsounds,dont exist
+protect.card_locker,exist
+pt.joaomneto.titancompanion,exist
+pw.thedrhax.mosmetro,dont exist
+re.indigo.epistolaire,dont exist
+rocks.poopjournal.flashy,exist
+rocks.poopjournal.morse,exist
+rocks.tbog.tblauncher,exist
+rodrigodavy.com.github.pixelartist,dont exist
+ru.evgeniy.dpitunnel,dont exist
+ru.ra66it.updaterforspotify,dont exist
+ru.yanus171.feedexfork,exist
+ryey.colorsniffer,dont exist
+ryey.easer,dont exist
+ryey.easer.beta,dont exist
+saschpe.poker,exist
+se.leap.bitmaskclient,exist
+se.leap.riseupvpn,exist
+se.lublin.mumla,exist
+se.oandell.riksdagen,exist
+sh.ftp.rocketninelabs.meditationassistant.opensource,dont exist
+site.leos.apps.lespas,exist
+site.leos.setter,exist
+su.sadrobot.yashlang,dont exist
+superfreeze.tool.android,dont exist
+superustats.tool.android,dont exist
+sushi.hardcore.droidfs,dont exist
+swati4star.createpdf,exist
+taco.apkmirror,dont exist
+tech.platypush.platypush,dont exist
+tech.projectmatris.antimalwareapp,dont exist
+tech.waelk.radioactive.metronome,exist
+telegra.ph,exist
+theredspy15.ltecleanerfoss,exist
+threads.server,exist
+threads.thor,exist
+tk.giesecke.disaster_radio,dont exist
+tk.giesecke.painlessmesh,exist
+tk.radioactivemineral.metronome,dont exist
+troop.com.freedcam,dont exist
+ua.bossly.tools.translit,exist
+ua.gardenapple.itchupdater,dont exist
+ua.gardenapple.trylbry,dont exist
+uk.co.bitethebullet.android.token,dont exist
+uk.org.ngo.squeezer,exist
+uscartools.USTravelConverter,dont exist
+vocabletrainer.heinecke.aron.vocabletrainer,dont exist
+wb.receiptspro,exist
+ws.xsoh.etar,exist
+wseemann.media.romote,exist
+xyz.hisname.fireflyiii,exist
+xyz.myachin.downloader,exist
+xyz.zedler.patrick.grocy,exist
